@@ -1,0 +1,1000 @@
+ 1003  sudo nano 000-default.conf 
+ 1004  sudo systemctl restart apache2
+ 1005  sudo nano 000-default.conf 
+ 1006  sudo systemctl restart apache2
+ 1007  sudo nano 000-default.conf 
+ 1008  sudo systemctl restart apache2
+ 1009  sudo nano 000-default.conf 
+ 1010  sudo systemctl restart apache2
+ 1011  sudo service restart apache2
+ 1012  sudo service apache2 restart
+ 1013  sudo nano 000-default.conf 
+ 1014  sudo service apache2 restart
+ 1015  sudo nano 000-default.conf 
+ 1016  sudo service apache2 restart
+ 1017  sudo nano 000-default.conf 
+ 1018  sudo service apache2 restart
+ 1019  sudo nano 000-default.conf 
+ 1020  sudo service apache2 restart
+ 1021  sudo nano 000-default.conf 
+ 1022  sudo gedit 000-default.conf 
+ 1023  sudo nano 000-default.conf 
+ 1024  sudo service apache2 restart
+ 1025  sudo nano 000-default.conf 
+ 1026  sudo service apache2 restart
+ 1027  sudo nano 000-default.conf 
+ 1028  sudo service apache2 restart
+ 1029  sudo nano 000-default.conf 
+ 1030  sudo service apache2 restart
+ 1031  sudo nano 000-default.conf 
+ 1032  PS1="AbouGabal \w 🔥 "
+ 1033  c
+ 1034  cd codewars/
+ 1035  ls
+ 1036  node classes_prototypes.js 
+ 1037  npm install axios
+ 1038  axios --help
+ 1039  axios -v
+ 1040  axios -version
+ 1041  axios --version
+ 1042  npm fund
+ 1043  node -v
+ 1044  npm -v
+ 1045  node classes_prototypes.js 
+ 1046  mkdir jsClassesPractices
+ 1047  mv classes_prototypes.js ./jsClassesPractices/
+ 1048  cd jsClassesPractices/
+ 1049  node classes_prototypes.js 
+ 1050  cd ..
+ 1051  git add fibonacciNumbers.cpp 
+ 1052  git commit -m "fix : corrected time complexity comment "
+ 1053  git push origin -u
+ 1054  cd jsClassesPractices/
+ 1055  node classes_prototypes.js 
+ 1056  node classes_prototypes.js
+ 1057  node -v
+ 1058  npm -v
+ 1059  PS1="AbouGabal \w 🔥 "
+ 1060  pwd
+ 1061  ls
+ 1062  ls -a
+ 1063  exit
+ 1064  code .
+ 1065  exit
+ 1066  PS1=">> "
+ 1067  ./gscript.sh 
+ 1068  c
+ 1069  ./gscript.sh 
+ 1070  c
+ 1071  ./gscript.sh 
+ 1072  c
+ 1073  ./gscript.sh 
+ 1074  c
+ 1075  ./gscript.sh 
+ 1076  c
+ 1077  ./gscript.sh 
+ 1078  c
+ 1079  ./gscript.sh 
+ 1080  c
+ 1081  ./gscript.sh 
+ 1082  exit
+ 1083  ls
+ 1084  gscript.sh 
+ 1085  c
+ 1086  code .
+ 1087  zipgscript.sh README.md .gitignore 
+ 1088  zip gscript.sh README.md .gitignore 
+ 1089  PS1=">> "
+ 1090  zip gscript.sh README.md .gitignore 
+ 1091  man zip
+ 1092  ./gscript.sh 
+ 1093  c
+ 1094  ./gscript.sh 
+ 1095  c
+ 1096  ./gscript.sh 
+ 1097  c
+ 1098  ./gscript.sh 
+ 1099  c
+ 1100  ./gscript.sh 
+ 1101  c
+ 1102  ./gscript.sh 
+ 1103  c
+ 1104  PS1="abougabal /w >> "
+ 1105  c
+ 1106  PS1=">> "
+ 1107  c
+ 1108  pwd
+ 1109  PS1=">> "
+ 1110  C
+ 1111  c
+ 1112  ./gscript.sh 
+ 1113  c
+ 1114  ./gscript.sh 
+ 1115  c
+ 1116  ./gscript.sh 
+ 1117  c
+ 1118  pwd
+ 1119  open .
+ 1120  zip archive_name.zip gscript.sh README.md .gitignore
+ 1121  git add findKthSmallestPairDistance.cpp 
+ 1122  git commit
+ 1123  git push origin -u
+ 1124  code .
+ 1125  ls -a
+ 1126  cd ~/
+ 1127  c
+ 1128  cd codewars/
+ 1129  git add kth_LargestElementInaStream.cpp 
+ 1130  git commit 
+ 1131  git push origin -u
+ 1132  cd ..
+ 1133  cd 
+ 1134  git clone git@github.com:ahmedabougabal/mernStackMilestoneProject_ITI.git
+ 1135  cd mernStackMilestoneProject_ITI/
+ 1136  ls
+ 1137  code .
+ 1138  cd ~/
+ 1139  cd /home/abougabal/mernStackMilestoneProject_ITI/
+ 1140  ls
+ 1141  cd /home/abougabal/mernStackMilestoneProject_ITI/
+ 1142  ls  *
+ 1143  ls
+ 1144  cd backend/
+ 1145  PS1="\w >> "
+ 1146  c
+ 1147  ls
+ 1148  npm install dotenv
+ 1149  npm start
+ 1150  c
+ 1151  npm start
+ 1152  c
+ 1153  npm start
+ 1154  c
+ 1155  npm start
+ 1156  c
+ 1157  npm start
+ 1158  npm install mongodb
+ 1159  c
+ 1160  npm start
+ 1161  c
+ 1162  npm start
+ 1163  node console.log('Mongo_URI:', process.env.Mongo_URI);
+ 1164  console.log('Mongo_URI:', process.env.Mongo_URI);
+ 1165  ls
+ 1166  npm start
+ 1167  c
+ 1168  npm start
+ 1169  lsof -i :8080
+ 1170  kill -9 557358
+ 1171  echo $0
+ 1172  echo $?
+ 1173  c
+ 1174  npm start
+ 1175  lsof -i :8080
+ 1176  kill -9 568502
+ 1177  lsof -i :8080
+ 1178  npm start
+ 1179  c
+ 1180  npm start
+ 1181  c
+ 1182  losf 8080
+ 1183  lsof 8080
+ 1184  lsof -i :8080
+ 1185  lsof -i :5002
+ 1186  pkill -9 586381
+ 1187  echo $?
+ 1188  lsof -i :5002
+ 1189  kill -9 586381
+ 1190  echo $?
+ 1191  npm start
+ 1192  c
+ 1193  npm install 
+ 1194  npm start
+ 1195  cd ~/codewars/
+ 1196  git add chunkArray.js 
+ 1197  git commit -m "feat: Implemented the logic to return chunks of subarrays based on the second para from the input array using .slice() and pushing the result into a new array "
+ 1198  git push origin -u
+ 1199  cd ./.
+ 1200  ../.
+ 1201  cd ../..
+ 1202  cd mernStackMilestoneProject_ITI/
+ 1203  ls
+ 1204  git status
+ 1205  git add .
+ 1206  git status
+ 1207  git add .
+ 1208  git status
+ 1209  git remote -v
+ 1210  git commit 
+ 1211  git status
+ 1212  git add .
+ 1213  git status
+ 1214  git commit 
+ 1215  git commit --amend --no-edit
+ 1216  git push origin AbouGabal 
+ 1217  git status
+ 1218  npm install react-icons --save
+ 1219  npm install react-router-dom
+ 1220  npm install localforage match-sorter sort-by
+ 1221  npm audit fix
+ 1222  npm audit fix --force
+ 1223  npm run dev
+ 1224  npm run
+ 1225  ls
+ 1226  cd frontend/
+ 1227  c
+ 1228  npm run dev
+ 1229  c
+ 1230  npm install dotenv
+ 1231  npm start
+ 1232  c
+ 1233  npm start
+ 1234  cd backend/
+ 1235  c
+ 1236  npm start
+ 1237  c
+ 1238  cd mernStackMilestoneProject_ITI/
+ 1239  ls
+ 1240  cd frontend/
+ 1241  ls
+ 1242  ls *
+ 1243  c
+ 1244  npm run dev
+ 1245  npm run build
+ 1246  npm run dev
+ 1247  npx tailwindcss init
+ 1248  npm run dev
+ 1249  c
+ 1250  npm run dev
+ 1251  c
+ 1252  ls
+ 1253  npm run dev
+ 1254  npm install -D tailwindcss
+ 1255  npx tailwindcss init
+ 1256  npm run dev
+ 1257  sudo apt-get install tree
+ 1258  tree > structure.txt
+ 1259  cat structure.txt 
+ 1260  tree
+ 1261  npm run dev
+ 1262  npm i react-scripts@latest
+ 1263  npm run dev
+ 1264  npm audit fix --force
+ 1265  npm run dev
+ 1266  git status
+ 1267  pwd
+ 1268  npm run dev
+ 1269  git status
+ 1270  git add .
+ 1271  git commit -m "feat: Designing the NavBar and defining components inside Front end dir"
+ 1272  git push origin AbouGabal 
+ 1273  df -h
+ 1274  cd ~/opt/
+ 1275  cd ~/opt
+ 1276  cd /opt/
+ 1277  ls
+ 1278  open .
+ 1279  c
+ 1280  sudo rm -rf /opt/WebStorm*
+ 1281  sudo rm -rf /opt/DataGrip*
+ 1282  rm -rf ~/.local/share/JetBrains/WebStorm*
+ 1283  rm -rf ~/.local/share/JetBrains/DataGrip*
+ 1284  rm -rf ~/.config/JetBrains/WebStorm*
+ 1285  rm -rf ~/.cache/JetBrains/WebStorm*
+ 1286  rm -rf ~/.config/JetBrains/DataGrip*
+ 1287  rm -rf ~/.cache/JetBrains/DataGrip*
+ 1288  rm -rf ~/.local/share/applications/jetbrains-webstorm.desktop
+ 1289  rm -rf ~/.local/share/applications/jetbrains-datagrip.desktop
+ 1290  df -h
+ 1291  du -ah ~/ | sort -rh | head -n 10
+ 1292  cd ~/
+ 1293  ls
+ 1294  c
+ 1295  df -h
+ 1296  rm -rf ~/.cache/*
+ 1297  df -h
+ 1298  mkdir projectZero
+ 1299  cd projectZero/
+ 1300  git clone git@github.com:ahmedabougabal/mernStackMilestoneProject_ITI.git
+ 1301  ls
+ 1302  cd mernStackMilestoneProject_ITI/
+ 1303  ls
+ 1304  ls *
+ 1305  code .
+ 1306  git status
+ 1307  git branch
+ 1308  PS1="\w >> "
+ 1309  git remote -v
+ 1310  git checkout -b Authenticate
+ 1311  git branch
+ 1312  sudo dpkg -i code*.deb
+ 1313  code .
+ 1314  sudo apt-get install -f
+ 1315  cd ~/
+ 1316  sudo apt-get remove code
+ 1317  cd ~/codewars/
+ 1318  git add lemonadeChange.cpp 
+ 1319  git commit -m "feat: implemented the logic to effectively calculate change for whatever bill the customer pays so that the net transaction is $5 "
+ 1320  git push origin -u
+ 1321  c ..
+ 1322  cd ..
+ 1323  ls
+ 1324  cd codewars/
+ 1325  git add arrayPrototypeLast.js 
+ 1326  git commit -m "feat: implemented logic to return last element using a ternary operator and 'this' reference and returns -1 when the arr is empty"
+ 1327  git push origin -u
+ 1328  sudo cp *.ttf /usr/local/share/fonts/
+ 1329  sudo cp *.otf /usr/local/share/fonts/
+ 1330  cd ~/projectZero/
+ 1331  cd mernStackMilestoneProject_ITI/
+ 1332  ls
+ 1333  cd backend/
+ 1334  PS1="\w >> "
+ 1335  cd ..
+ 1336  ls
+ 1337  cd -
+ 1338  c
+ 1339  npm install
+ 1340  npm run backend
+ 1341  npm run dev
+ 1342  lsof -i :5200
+ 1343  lsof -i :8080
+ 1344  npm run backend
+ 1345  c
+ 1346  npm run backend
+ 1347  c
+ 1348  npm run backend
+ 1349  c
+ 1350  npm run backend
+ 1351  c
+ 1352  npm run backend
+ 1353  c
+ 1354  ls models/
+ 1355  cd models/
+ 1356  pwd
+ 1357  npm cache clean --force
+ 1358  npm run backend
+ 1359  npm install express dotenv cookie-parser
+ 1360  npm run backend
+ 1361  cd ..
+ 1362  cd -
+ 1363  npm install -g eslint
+ 1364  sudo npm install -g eslint
+ 1365  sudo npm install eslint eslint-plugin-node eslint-config-airbnb-base eslint-plugin-import --save-dev
+ 1366  npm run backend
+ 1367  cd ~/codewars/
+ 1368  git status
+ 1369  git add groupBy.js 
+ 1370  git commit -m "feat: Implemented the logic of the '.group' built in method"
+ 1371  git push origin -u
+ 1372  cd ~/
+ 1373  pwd
+ 1374  flatpak install com.obsproject.Studio.Plugin.BackgroundRemoval
+ 1375  flatpak list | grep obs
+ 1376  gedit
+ 1377  nano
+ 1378  ls
+ 1379  sudo cp /home/abougabal/Pictures/CascadiaCode-2404.23/CascadiaCode-ExtraLightItalic.ttf /usr/share/fonts/truetype/
+ 1380  sudo fc-cache -fv
+ 1381  c
+ 1382  cd ~//usr/share/fonts/truetype/
+ 1383  cd ~//usr/share/fonts/truetype
+ 1384  cd ~//usr/share/fonts/
+ 1385  cd ~/usr/share/fonts/
+ 1386  cd /usr/share/fonts/
+ 1387  ls
+ 1388  cd truetype/
+ 1389  ls
+ 1390  c
+ 1391  git rebase main
+ 1392  git checkout main
+ 1393  git rebase Authenticate 
+ 1394  git status
+ 1395  git branch
+ 1396  git checkout main
+ 1397  git branch
+ 1398  git merge
+ 1399  git status
+ 1400  git commit
+ 1401  git commit 
+ 1402  pwd
+ 1403  cd backend/
+ 1404  git status
+ 1405  git branch
+ 1406  git push
+ 1407  git push origin main
+ 1408  git pull 
+ 1409  git push
+ 1410  git push origin main
+ 1411  git pull --rebase origin main
+ 1412  git status
+ 1413  git pull --rebase origin main
+ 1414  git add package-lock.json package.json
+ 1415  git add ../package-lock.json ../package.json
+ 1416  git rebase --continue
+ 1417  cd ..
+ 1418  git rebase --continue
+ 1419  cd -
+ 1420  git status
+ 1421  git push origin main
+ 1422  git branch 
+ 1423  git checkout Authenticate 
+ 1424  git llog
+ 1425  git log
+ 1426  git status
+ 1427  git pull origin main
+ 1428  git pull --rebase origin main
+ 1429  git merge --abort
+ 1430  git rebase --abort
+ 1431  cd ..
+ 1432  git fetch origin
+ 1433  git merge origin/main
+ 1434  git commit
+ 1435  git log --oneline
+ 1436  git branch
+ 1437  git fetch origin
+ 1438  git checkout Authenticate
+ 1439  git merge origin/main
+ 1440  git fetch origin
+ 1441  git checkout Authenticate 
+ 1442  git merge origin/main
+ 1443  cd backend/
+ 1444  npm run backend
+ 1445  git status
+ 1446  git add .
+ 1447  git status
+ 1448  git add ../.envexample ../.gitignore 
+ 1449  git status
+ 1450  git commit
+ 1451  git push origin Authenticate 
+ 1452  cd codewars/
+ 1453  git add maxDistanceInArrays.cpp 
+ 1454  git commit -m "feat: Implemented the logic of calculating max distance between 2 integers from different arrays [greedy algo/single pass]"
+ 1455  git push origin -u
+ 1456  df -h
+ 1457  git add uglyNumberII.cpp 
+ 1458  git commit 
+ 1459  git add uglyNumberII.cpp 
+ 1460  git commit 
+ 1461  git push origin -u
+ 1462  cd ~/projectZero/
+ 1463  cd mernStackMilestoneProject_ITI/
+ 1464  cd backend/
+ 1465  PS1=">> "
+ 1466  PS1="\w >> "
+ 1467  c
+ 1468  npm run dev
+ 1469  npm run backend
+ 1470  git status
+ 1471  git branch
+ 1472  pwd
+ 1473  git add .
+ 1474  git status
+ 1475  git add ../package.json ../package-lock.json 
+ 1476  git status
+ 1477  git branch 
+ 1478  git commit
+ 1479  git push origin Authenticate 
+ 1480  npm run backend 
+ 1481  cd ~/codewars/
+ 1482  git add sortBy.js 
+ 1483  git commit 
+ 1484  git push origin -u
+ 1485  cd~/
+ 1486  cd ~/
+ 1487  sudo apt update
+ 1488  sudo apt install postgresql postgresql-contrib
+ 1489  sudo systemctl status postgresql
+ 1490  sudo -u postgres psql
+ 1491  curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+ 1492  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'
+ 1493  sudo apt update
+ 1494  sudo apt install pgadmin4
+ 1495  sudo /usr/pgadmin4/bin/setup-web.sh
+ 1496  sudo -u postgres psql
+ 1497  sudo nano /etc/postgresql/16/main/pg_hba.conf
+ 1498  sudo gedit /etc/postgresql/16/main/pg_hba.conf
+ 1499  sudo -u postgres psql postgres
+ 1500  alter user postgres with password 'postgres';
+ 1501  sudo systemctl status postgresql
+ 1502  sudo systemctl start postgresql
+ 1503  sudo systemctl status postgresql
+ 1504  sudo systemctl start postgresql
+ 1505  sudo systemctl status postgresql
+ 1506  sudo tail -f /var/log/postgresql/postgresql-<version>-main.log
+ 1507  cd ~/var/
+ 1508  cd ~/var
+ 1509  cd var/lib
+ 1510  cd /var/lib
+ 1511  ls
+ 1512  cd postgresql/
+ 1513  ls
+ 1514  cd 16
+ 1515  ls
+ 1516  sudo chown -R postgres:postgres /var/lib/postgresql/16/main/
+ 1517  echo $?
+ 1518  sudo systemctl restart postgresql
+ 1519  sudo systemctl status postgresql
+ 1520  sudo nano /usr/lib/systemd/system/postgresql.service
+ 1521  sudo systemctl status postgresql
+ 1522  sudo nano /usr/lib/systemd/system/postgresql.service
+ 1523  sudo -u postgres psql
+ 1524  sudo nano /etc/postgresql/16/main/pg_hba.conf
+ 1525  sudo systemctl status postgresql
+ 1526  sudo systemctl restart postgresql
+ 1527  sudo systemctl status postgresql
+ 1528  cd ~/codewars/
+ 1529  git add 2_keys_keyboard.cpp 
+ 1530  git commit
+ 1531  git push origin -u
+ 1532  cd ~/projectZero/
+ 1533  cd mernStackMilestoneProject_ITI/
+ 1534  cd backend/
+ 1535  npm run backend 
+ 1536  c
+ 1537  npm run backend 
+ 1538  python Lab1.py 
+ 1539  pwd
+ 1540  open .
+ 1541  git status
+ 1542  python
+ 1543  Python
+ 1544  PYHTON3
+ 1545  c
+ 1546  pyhton3
+ 1547  python3 --version
+ 1548  top
+ 1549  pkill -9 -p 188094
+ 1550  pkill -9 188094
+ 1551  kill -9 188094
+ 1552  cd ~/codewars/
+ 1553  git add flattenDeeplyNestedArray.js 
+ 1554  git commit 
+ 1555  git push origin -u
+ 1556  cd ~/PycharmProjects/
+ 1557  ls
+ 1558  cd pythonLabDay1/
+ 1559  ls
+ 1560  ls -a
+ 1561  cat Lab1.py 
+ 1562  cd ..
+ 1563  ls
+ 1564  git init
+ 1565  git add pythonLabDay1/
+ 1566  git commit -m "Day 1"
+ 1567  git remote add origin https://github.com/ahmedabougabla/pythonLabs_ITI.git
+ 1568  git push origin -u
+ 1569  git push --set-upstream origin master
+ 1570  git remote add origin https://github.com/ahmedabougabal/pythonLabs_ITI.git
+ 1571  git remote -v
+ 1572  git remote remove origin
+ 1573  git remote add origin https://github.com/ahmedabougabal/pythonLabs_ITI.git
+ 1574  git remote -v
+ 1575  git push origin -u
+ 1576  git push --set-upstream origin master
+ 1577  git remote -v
+ 1578  git push origin main
+ 1579  git push origin main -u
+ 1580  git push origin -u
+ 1581  git push --set-upstream origin main
+ 1582  git push --set-upstream origin master
+ 1583  git push origin -u
+ 1584  git status
+ 1585  git branch
+ 1586  ls -a
+ 1587  git add pythonLabDay1/
+ 1588  git commit -m "Day 1"
+ 1589  git push
+ 1590  git add pythonProject/
+ 1591  git status
+ 1592  open .
+ 1593  git status
+ 1594  lls
+ 1595  ls
+ 1596  git add pythonProject 
+ 1597  git status
+ 1598  git add pythonLabDay1/
+ 1599  git status
+ 1600  git checkout -b main
+ 1601  git branch
+ 1602  git remove master
+ 1603  git branch -d master
+ 1604  git branch
+ 1605  git branch -D master
+ 1606  git push origin --delete master
+ 1607  git status
+ 1608  ls
+ 1609  git add pythonLabDay1/
+ 1610  git status
+ 1611  git restore --HARD
+ 1612  git restore --hard
+ 1613  git log
+ 1614  git status
+ 1615  git show 0525976896aa2a4a483f7aababb6d99ee5181068
+ 1616  git add pythonLabDay1/
+ 1617  git push
+ 1618  git push --set-upstream origin main 
+ 1619  git pull origin main
+ 1620  git checkout main
+ 1621  git merge master
+ 1622  git merge origin/master
+ 1623  exit
+ 1624  git cd PycharmProjects/
+ 1625  cd PycharmProjects/
+ 1626  ls
+ 1627  ls -aF
+ 1628  git init
+ 1629  git clone git@github.com:ahmedabougabal/pythonLabs_ITI.git
+ 1630  ls
+ 1631  mv pythonLabDay1/ pythonLabs_ITI/
+ 1632  ls
+ 1633  cd pythonLabs_ITI/
+ 1634  ls
+ 1635  ls -a
+ 1636  git status
+ 1637  git add pythonLabDay1/
+ 1638  git commit "Day 1"
+ 1639  git commit -m "Day 1"
+ 1640  git push origin -u
+ 1641  cd ..
+ 1642  ls -aF
+ 1643  cd ~?
+ 1644  cd ~/
+ 1645  c
+ 1646  cd ~/Downloads/vs
+ 1647  sudo dpkg -i code_1.92.2-1723660989_amd64.deb
+ 1648  sudo apt-get install -f
+ 1649  cd ~/
+ 1650  code --version
+ 1651  which code
+ 1652  open /usr/bin/code
+ 1653  open /usr/bin/
+ 1654  cd ~/projectZero/
+ 1655  ls
+ 1656  cd mernStackMilestoneProject_ITI/
+ 1657  cd backend/
+ 1658  PS1="/w >> "
+ 1659  PS1="\w >> "
+ 1660  npm run backend
+ 1661  git branch
+ 1662  git fetch origin
+ 1663  git merge origin/main
+ 1664  cd backend/
+ 1665  ls
+ 1666  npm install bcrypt
+ 1667  cd ~/codewars/
+ 1668  cd pythonPS/
+ 1669  ls
+ 1670  git add numberComplement.py 
+ 1671  git commit -m "feat: Implemented the logic where it takes an input of num and converts into binary string and loops over it to convert 0s and 1s to their opposites and then converts them back to decimal"
+ 1672  git push origin -u
+ 1673  exit
+ 1674  git status
+ 1675  git add .
+ 1676  git status
+ 1677  git add ../package-lock.json ../package.json 
+ 1678  git status
+ 1679  git commit -m "hashing and salting"
+ 1680  git push origin Authenticate 
+ 1681  npm run backend 
+ 1682  git statusss
+ 1683  git statuss
+ 1684  git status
+ 1685  cd backend/
+ 1686  git status
+ 1687  appls
+ 1688  ls
+ 1689  python app.py 
+ 1690  git remote -v
+ 1691  ls
+ 1692  cd ..
+ 1693  ls
+ 1694  cd ..
+ 1695  ls
+ 1696  ls -a
+ 1697  git remote -v
+ 1698  mkdir pythonLabDay3
+ 1699  touch pythonLabDay3/app.py
+ 1700  ls pythonLabDay3
+ 1701  cd ~/Downloads/
+ 1702  mkdir backupProjectZero
+ 1703  cd backupProjectZero/
+ 1704  git clone git@github.com:ahmedabougabal/mernStackMilestoneProject_ITI.git
+ 1705  npm run backend 
+ 1706  cd -
+ 1707  cd ~/projectZero/
+ 1708  cd mernStackMilestoneProject_ITI/
+ 1709  cd backend/
+ 1710  npm run backend 
+ 1711  ls
+ 1712  cd ..
+ 1713  git remote -v
+ 1714  git status
+ 1715  git add pythonLabDay3/
+ 1716  git commit -m "Day 3 - Hangman game" 
+ 1717  git push origin -u
+ 1718  git push origin HEAD
+ 1719  git fetch origin
+ 1720  git rebase origin/main
+ 1721  git rebase --continue
+ 1722  git push origin HEAD
+ 1723  cd ~/
+ 1724  nano temp.tx
+ 1725  cd PycharmProjects/
+ 1726  ls
+ 1727  cd pythonLabs_ITI/
+ 1728  ls
+ 1729  cd -
+ 1730  ls -a
+ 1731  git remote -v
+ 1732  git branch 
+ 1733  ls pythonLabs_ITI/
+ 1734  ls -aF pythonLabs_ITI/
+ 1735  ls /* pythonLabs_ITI/
+ 1736  ls * pythonLabs_ITI/
+ 1737  ls * -a pythonLabs_ITI/
+ 1738  open .
+ 1739  ls
+ 1740  cd pythonLabDay4
+ 1741  touch main.oy
+ 1742  rm main.oy 
+ 1743  touch main.py
+ 1744  top
+ 1745  lls
+ 1746  ls
+ 1747  python3.7 main.py 
+ 1748  python3 --version
+ 1749  python3 main.py 
+ 1750  c
+ 1751  python3 main.py 
+ 1752  python3 queue.py 
+ 1753  c
+ 1754  python3 queue.py 
+ 1755  cd ..
+ 1756  ls
+ 1757  git status
+ 1758  git add pythonLabDay4
+ 1759  git status
+ 1760  git commit "Day 4 OOP-1"
+ 1761  git commit -m "Day 4 OOP-1"
+ 1762  git push origin -u
+ 1763  git push origin HEAD
+ 1764  git status
+ 1765  git add pythonLabDay4/queue.py
+ 1766  git commit -m "Queue DataStructure Implementation"
+ 1767  git push origin HEAD
+ 1768  git status
+ 1769  git add pythonLabDay4/queue_2.py
+ 1770  git commit -m "feat : Implemented the following: implement another queue class that has the same properties as previous but with the following changes:
+ 1771  	A. The queue should have a name that is provided as a parameter for its initializer
+ 1772  	B. The queue should have a size that is provided as a parameter of its initializer
+ 1773  	   and if we tried to insert more values than its size raises a custom created exception called
+ 1774  	   QueueOutOfRangeException
+ 1775  	C. The Queue class keeps track of all queues instances that has been created through this class
+ 1776  	   and we can get any queue of them using its name"
+ 1777  git push origin HEAD
+ 1778  git status
+ 1779  git add pythonLabDay4/queue_2.py
+ 1780  git commit -m "feat: Implemeting the bonus part using 'pickle' module for serializing and deserializing python objects as byte stream in a file for loading and saving queues instances"
+ 1781  git push origin HEAD
+ 1782  cd ~/Downloads/
+ 1783  echo "https://github.com/ahmedabougabal/pythonLabs_ITI/tree/main/pythonLabDay4" > link_to_github.txt
+ 1784  open .
+ 1785  cd ~/codewars/
+ 1786  git add compactObject.js 
+ 1787  git commit -m "feat: used filter, map , reduce and recursion to remove all falsy values from either an object or arrays that hold falsy keys"
+ 1788  git push origin -u
+ 1789  cd ~/projectZero/
+ 1790  cd mernStackMilestoneProject_ITI/
+ 1791  ls
+ 1792  git branch
+ 1793  git fetch origin
+ 1794  git merge origin/main
+ 1795  npm run dev
+ 1796  npm run frontend
+ 1797  cd frontend/
+ 1798  npm run frontend
+ 1799  npm run
+ 1800  npm run frontend
+ 1801  npm run dev
+ 1802  npm install
+ 1803  npm run dev
+ 1804  npm run frontend
+ 1805  cd ..
+ 1806  npm run frontend
+ 1807  git status
+ 1808  git add .
+ 1809  git status
+ 1810  git commit -m "feat: added navigation to login/signup page"
+ 1811  git push origin Authenticate 
+ 1812  exit
+ 1813  ls
+ 1814  cd ..
+ 1815  ls
+ 1816  mkdir pythonLabDay5
+ 1817  touch pythonLabDay5/main.py
+ 1818  open .
+ 1819  cd ~/projectZero/mernStackMilestoneProject_ITI/
+ 1820  npm run frontend 
+ 1821  git status
+ 1822  git add .
+ 1823  git commit "feat: Finalizing my part I"
+ 1824  git commit -m "feat: Finalizing my part I"
+ 1825  git push origin Authenticate 
+ 1826  cd ~/
+ 1827  c
+ 1828  nano temp.tx 
+ 1829  cd ~/PycharmProjects/
+ 1830  cd pythonLabDay5/
+ 1831  ls
+ 1832  python3 main.py 
+ 1833  c
+ 1834  cd ..
+ 1835  ls
+ 1836  open .
+ 1837  mkdir huzen
+ 1838  cd huzen
+ 1839  gh repo clone HuXn-WebDev/MERN-E-Commerce-Store
+ 1840  git clone git@github.com:HuXn-WebDev/MERN-E-Commerce-Store.git
+ 1841  open .
+ 1842  cd ~/projectZero/mernStackMilestoneProject_ITI/
+ 1843  git statis
+ 1844  git status
+ 1845  git add .
+ 1846  git status
+ 1847  git branch
+ 1848  git commit 
+ 1849  git push origin Authenticate 
+ 1850  npm run frontend 
+ 1851  c
+ 1852  git status
+ 1853  git add .
+ 1854  git commit -m "fix: Added missing files"
+ 1855  git push origin Authenticate 
+ 1856  npm run frontend 
+ 1857  cd ~/Documents/mernStack/
+ 1858  git clone git@github.com:ahmedabougabal/mernStackMilestoneProject_ITI.git
+ 1859  open .
+ 1860  cd ~/huzen/
+ 1861  git log
+ 1862  cd ~/projectZero/
+ 1863  cd mernStackMilestoneProject_ITI/
+ 1864  ls
+ 1865  git log
+ 1866  git checkout main
+ 1867  git checkout main --force
+ 1868  git reset --hard cf0b3a2ee502f9826a243105ac342f4c8172d45b
+ 1869  git push origin main --force
+ 1870  git checkout Authenticate
+ 1871  git log
+ 1872  git checkout Authenticate
+ 1873  git status
+ 1874  git reset --hard cf0b3a2ee502f9826a243105ac342f4c8172d45b
+ 1875  git push origin Authenticate --force
+ 1876  cd ~/PycharmProjects/
+ 1877  ls
+ 1878  git status
+ 1879  git add pythonLabDay5
+ 1880  git commit -m "Day 5 - farewell"
+ 1881  git push origin HEAD 
+ 1882  ls pythonLabDay3/
+ 1883  open .
+ 1884  git add pythonLabDay3/2\ -\ worldcup/
+ 1885  git commit -m "CS50P Tournament Assignment "
+ 1886  git push origin HEAD 
+ 1887  git status 
+ 1888  git add pythonLabDay4/queue_2.py
+ 1889  git commit
+ 1890  git push origin Head
+ 1891  git push origin HEAD 
+ 1892  echo "https://github.com/ahmedabougabal/pythonLabs_ITI"> github_repo.txt
+ 1893  open .
+ 1894  cd ~/codewars/
+ 1895  git add binaryTreePostorderTraversal.cpp 
+ 1896  git commit -m "Implemented Post-order traversal"
+ 1897  git push origin -u
+ 1898  cd ~/projectZero/
+ 1899  cd mernStackMilestoneProject_ITI/
+ 1900  ls
+ 1901  git branch
+ 1902  git  fetcch origin main
+ 1903  git fetch origin main
+ 1904  git  merge origin/Authenticate 
+ 1905  git fetch origin
+ 1906  git merge origin/main 
+ 1907  git merge origin/Authenticate 
+ 1908  open 
+ 1909  open .
+ 1910  git fetch origin
+ 1911  git merge origin/main 
+ 1912  git merge origin/Authenticate 
+ 1913  git branch
+ 1914  git status
+ 1915  git  log
+ 1916  git fetch origin
+ 1917  git merge origin/Authenticate
+ 1918  git status
+ 1919  git log origin/Authenticate..Authenticate
+ 1920  git push origin Authenticate
+ 1921  git status
+ 1922  git add .
+ 1923  git status
+ 1924  git commit -m "feat: add user authentication components and update App and AddReviewForm"
+ 1925  git push origin Authenticate 
+ 1926  npm run frontend 
+ 1927  git status
+ 1928  git add .
+ 1929  git commit -m "Rename .js files to .jsx and fix Vite parsing issue"
+ 1930  git push origin Authenticate 
+ 1931  git  log
+ 1932  npm run frontend 
+ 1933  git status
+ 1934  git add .
+ 1935  git status
+ 1936  git commit -m "fix : Uncaught Error: You cannot render a <Router> inside another <Router> in App.jsx"
+ 1937  git push origin Authenticate
+ 1938  npm run frontend 
+ 1939  git  log
+ 1940  npm run frontend 
+ 1941  c
+ 1942  npm install
+ 1943  npm run frontend 
+ 1944  cd frontend/
+ 1945  npm install vite
+ 1946  npm run frontend 
+ 1947  cd -
+ 1948  npm run frontend 
+ 1949  PS1=">> "
+ 1950  C
+ 1951  c
+ 1952  PS1="\w >> "
+ 1953  npm run frontend
+ 1954  cd ../..
+ 1955  cd mernStackMilestoneProject_ITI/
+ 1956  npm run frontend
+ 1957  lsof -u 5173
+ 1958  c
+ 1959  npm run frontend
+ 1960  lsof -i :5173
+ 1961  kill -9 503531
+ 1962  npm run frontend
+ 1963  lsof -i :5173
+ 1964  npm run frontend
+ 1965  git branch
+ 1966  cd ~/projectZero/mernStackMilestoneProject_ITI/
+ 1967  ls
+ 1968  git status
+ 1969  c
+ 1970  npm run frontend 
+ 1971  git status
+ 1972  git add .
+ 1973  git commit 
+ 1974  git push origin Authenticate 
+ 1975  git branch
+ 1976  git fetch origin
+ 1977  git diff Authenticate origin/Authenticate
+ 1978  git push origin Authenticate --force
+ 1979  printenv > "/tmp/tmp-2319656GA7MvTOgM0L.txt"
+ 1980  source /home/abougabal/codewars/.venv/bin/activate
+ 1981  git remote -v
+ 1982  /bin/python3 /home/abougabal/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/abougabal/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1983  df -h
+ 1984  cd ~/home/abougabal/PycharmProjects/Django/ecommerce~
+ 1985  cd ~/home/abougabal/PycharmProjects/Django/ecommerce
+ 1986  cd home/abougabal/PycharmProjects/Django/ecommerce
+ 1987  cd ~
+ 1988  ls 
+ 1989  cd home 
+ 1990  cd pycharm
+ 1991  ls
+ 1992  ls 
+ 1993  cd Django/
+ 1994  ls 
+ 1995  ls -la
+ 1996  ls -a
+ 1997  cd ecommerce 
+ 1998  ls 
+ 1999  ls -la 
+ 2000  source .venv/bin/activate
+ 2001  history
+ 2002  history > log.txt
