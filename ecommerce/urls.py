@@ -10,5 +10,5 @@ urlpatterns = [
     path('', include('mart.urls', namespace='mart')),
     path('Products/', include('Products.urls')),
     path('mart/', include('mart.urls', namespace='mart')),
-    path('authentication/', include('authentication.urls')),
+    path('auth/', include('authentication.urls')),
 ]
