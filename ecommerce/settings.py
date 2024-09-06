@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'tracking_system',
     'mart',
+    'Products.apps.ProductsConfig',
+    'authentication',
 ]
 
 MIDDLEWARE = [
@@ -78,10 +80,15 @@ WSGI_APPLICATION = 'ecommerce.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'mydb',
+        'USER': 'ahmedabougabal',
+        'PASSWORD': '80802410',
+        'HOST': 'localhost',  # or the IP address of the database server
+        'PORT': '5432',  # Default PostgreSQL port
     }
 }
+
 
 
 # Password validation
