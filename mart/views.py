@@ -23,3 +23,21 @@ def welcome(request):
 def display_products(request):
     active_products = Product.objects.filter(isActive=True)
     return render(request, 'mart/products.html', {'products': active_products})
+
+def cart(request):
+    selected_products = request.GET.getlist('products')
+    products = {
+        "sunglasses": 500,
+        "microwave": 700,
+        "tshirt": 230,
+    }
+    cart_products = []
+    total = 0
+    for product in selected_products:
+        if product in products:
+            cart_products.append({
+                'name': product,
+                'price': products[product],
+            })
+            total += products[product]
+    return render(request, 'mart/cart.html', {'products': cart_products, 'total': total})
