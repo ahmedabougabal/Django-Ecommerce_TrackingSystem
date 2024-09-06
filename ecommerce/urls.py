@@ -18,7 +18,6 @@ from django.contrib import admin
 from django.urls import path, include
 from tracking_system.views import home, track_orders
 
-
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('ts/', home),
@@ -27,5 +26,4 @@ urlpatterns = [
     path('Products/', include('Products.urls')),
     path('mart/', include('mart.urls')),
     path('authentication/', include('authentication.urls')),
-
 ]
