@@ -1,22 +1,87 @@
-<!-- templates/mart/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+            color: #ff0044;
+            margin-top: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        li:last-child {
+            border-bottom: none;
+        }
+        input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #1aff00;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #0cb300;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #aaa;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to the Mart!</h1>
-    <form method="post">
-        {% csrf_token %}
-        <ul>
-            {% for product, price in products.items %}
-                <li>
-                    <input type="checkbox" name="products" value="{{ product }}"> {{ product }} - ${{ price }}
-                </li>
-            {% endfor %}
-        </ul>
-        <button type="submit">Add to Cart</button>
-    </form>
+    <div class="container">
+        <form method="get" action="{% url 'mart:cart' %}">
+            {% csrf_token %}
+            <ul>
+                {% for product, price in products.items %}
+                    <li>
+                        <input type="checkbox" name="products" value="{{ product }}"> 
+                        <span>{{ product }} - ${{ price }}</span>
+                    </li>
+                {% endfor %}
+            </ul>
+            <button type="submit">Add to Cart</button>
+        </form>
+    </div>
+    <div class="footer">
+        <p>© 2024 Mart. All rights reserved.</p>
+    </div>
 </body>
 </html>
